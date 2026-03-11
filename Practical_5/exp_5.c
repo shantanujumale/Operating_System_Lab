@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-
+https://github.com/SiddhantBahekar/Operating_System-Lab/tree/main
 int n,i;
 
 int bt[10],wt[10],tat[10];
